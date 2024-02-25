@@ -46,7 +46,7 @@ _Below is an example of how you can install and setup the application on your de
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/emailjohnthomascaballero/codewars.git
+   git clone https://github.com/emailjohnthomascaballero/flexbox-froggy.git
    ```
 <!-- Back to Top -->
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
