@@ -29,4 +29,19 @@ flex-direction: column;
 
 Level 10:
 flex-direction: row-reverse;
-justify-content: flex-end;
+justify-content: start;
+
+Level 11:
+flex-direction: column;
+justify-content: end;
+
+Level 12:
+flex-direction: column-reverse;
+justify-content: space-between;
+
+Level 13:
+flex-direction: row-reverse;
+justify-content: center;
+align-items: flex-end
+
+Level 14:
