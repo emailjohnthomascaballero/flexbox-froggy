@@ -58,3 +58,10 @@ order: 2;
 align-self: end;
 
 Level 18:
+flex-wrap: wrap;
+
+Level 19:
+flex-direction: column;
+flex-wrap: wrap;
+
+Level 20:
