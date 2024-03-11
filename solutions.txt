@@ -42,6 +42,9 @@ justify-content: flex-end;
 Level 11:
 flex-direction: column;
 justify-content: end;
+or
+flex-direction: column;
+justify-content: flex-end;
 
 Level 12:
 flex-direction: column-reverse;
@@ -61,13 +64,20 @@ order: 3;
 
 Level 15:
 order: -1;
+or
+order: -4;
 
 Level 16:
 align-self: end;
+or
+align-self: flex-end;
 
 Level 17:
-order: 2;
+order: 1; (1 or above)
 align-self: end;
+or
+order: 1;
+align-self: flex-end;
 
 Level 18:
 flex-wrap: wrap;
@@ -78,6 +88,8 @@ flex-direction: column
 
 Level 20:
 flex-flow: column wrap;
+or
+flex-flow: wrap column;
 
 Level 21:
 align-content: flex-start;
@@ -96,3 +108,8 @@ flex-wrap: wrap-reverse;
 flex-direction: column-reverse;
 justify-content: center;
 align-content: space-between;
+or
+flex-flow: column wrap-reverse;
+flex-direction: column-reverse;
+align-content: space-between;
+justify-content: center;
