@@ -1,56 +1,56 @@
-Level 1:
+LEVEL 1:
 justify-content: flex-end;
 
-Level 2:
+LEVEL 2:
 justify-content: center;
 
-Level 3:
+LEVEL 3:
 justify-content: space-around;
 
-Level 4:
+LEVEL 4:
 justify-content: space-between;
 
-Level 5:
+LEVEL 5:
 align-items: flex-end;
 or
 align-items: end;
 
-Level 6:
+LEVEL 6:
 justify-content: center;
 align-items: center;
 
-Level 7:
+LEVEL 7:
 justify-content: space-around;
 align-items: end;
 or
 justify-content: space-around;
 align-items: flex-end
 
-Level 8:
+LEVEL 8:
 flex-direction: row-reverse;
 
-Level 9:
+LEVEL 9:
 flex-direction: column;
 
-Level 10:
+LEVEL 10:
 flex-direction: row-reverse;
 justify-content: start;
 or
 flex-direction: row-reverse;
 justify-content: flex-end;
 
-Level 11:
+LEVEL 11:
 flex-direction: column;
 justify-content: end;
 or
 flex-direction: column;
 justify-content: flex-end;
 
-Level 12:
+LEVEL 12:
 flex-direction: column-reverse;
 justify-content: space-between;
 
-Level 13:
+LEVEL 13:
 flex-direction: row-reverse;
 justify-content: center;
 align-items: end;
@@ -59,51 +59,51 @@ justify-content: center;
 align-items: flex-end;
 flex-direction: row-reverse;
 
-Level 14:
+LEVEL 14:
 order: 3;
 
-Level 15:
+LEVEL 15:
 order: -1;
 or
 order: -4;
 
-Level 16:
+LEVEL 16:
 align-self: end;
 or
 align-self: flex-end;
 
-Level 17:
+LEVEL 17:
 order: 1; (1 or above)
 align-self: end;
 or
 order: 1;
 align-self: flex-end;
 
-Level 18:
+LEVEL 18:
 flex-wrap: wrap;
 
-Level 19:
+LEVEL 19:
 lex-wrap: wrap;
 flex-direction: column
 
-Level 20:
+LEVEL 20:
 flex-flow: column wrap;
 or
 flex-flow: wrap column;
 
-Level 21:
+LEVEL 21:
 align-content: flex-start;
 
-Level 22:
+LEVEL 22:
 align-content: flex-end;
 or
 align-content: end;
 
-Level 23:
+LEVEL 23:
 flex-direction: column-reverse;
 align-content: center;
 
-Level 24:
+LEVEL 24:
 flex-wrap: wrap-reverse;
 flex-direction: column-reverse;
 justify-content: center;
