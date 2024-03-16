@@ -60,12 +60,10 @@ align-items: flex-end;
 flex-direction: row-reverse;
 
 LEVEL 14:
-order: 3;
+order: 1; (1 and above)
 
 LEVEL 15:
-order: -1;
-or
-order: -4;
+order: -1; (-1 and below)
 
 LEVEL 16:
 align-self: end;
